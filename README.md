@@ -1,3 +1,4 @@
+https://github.com/user-attachments/assets/1392cc41-3bdb-4310-a6e9-08e725b4c155
 基于 Vite + Vue 3的一个鼠标跟随互动式登录页面前端
 <img width="1920" height="945" alt="8b23bbeed4bc5836d2c2cdbbb8bd7020" src="https://github.com/user-attachments/assets/74a900a4-66af-47f9-9b2b-1d0cfa5c9570" />
 <img width="1920" height="945" alt="60330cfed993096bb94458f17387597a" src="https://github.com/user-attachments/assets/df2182b6-fb79-4108-9bf9-e36559c5b40b" />
